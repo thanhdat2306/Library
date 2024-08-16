@@ -88,10 +88,4 @@ Check out the video demonstration of the application:
 ## Home Page 
 ![Home Page Screenshot](https://github.com/Gurunatha14/Fullstack-React-and-SpringBoot-Library-App/raw/main/Home_page.jpeg)
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## Contact
-
-For any questions or feedback, please contact [guruokali14@gmail.com.com](mailto:guruokali14@gmail.com).
