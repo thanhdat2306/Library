@@ -31,7 +31,7 @@ This is a full-stack library management application developed using React, Sprin
 1. Clone the repository:
 
     ```bash
-    git clone Gurunatha14/Fullstack-React-and-SpringBoot-Library-App
+    git clone thanhdat2306/Library
     ```
 
 2. Navigate to the backend directory:
